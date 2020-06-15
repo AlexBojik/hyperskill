@@ -17,3 +17,10 @@ After finishing this project, you'll get to know a lot about planning and develo
 Best project for Python Basics: uses functions, loops, lists, and other variables. The Random module is a cherry on top. Don’t be intimidated by the number of stages – they ensure that your immersion in Python is smooth and safe.
 
 [My solution](https://github.com/AlexBojik/hyperskill/blob/master/hangman.py)
+
+
+## [Project: Coffee Machine](https://hyperskill.org/projects/68)
+
+This project allows you to get a taste of Python. Practice working with functions, challenge yourself with loops and conditions, and get more confident in Python.
+
+[My solution](https://github.com/AlexBojik/hyperskill/blob/master/coffee_machine.py)
