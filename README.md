@@ -32,3 +32,10 @@ Apart from learning a whole lot about matrices, you will become familiar with th
 
 [My solution](https://github.com/AlexBojik/hyperskill/blob/master/processor.py)
 
+
+## [Project: Smart Calculator](https://hyperskill.org/projects/74)
+
+Apart from writing a useful program (everyone uses calculators!), you will learn a lot about lists, strings and dictionaries. You will also get closer experience with 2 important data structures: the stack and the queue.
+
+[My solution](https://github.com/AlexBojik/hyperskill/blob/master/calculator.py)
+
