@@ -24,3 +24,11 @@ Best project for Python Basics: uses functions, loops, lists, and other variable
 This project allows you to get a taste of Python. Practice working with functions, challenge yourself with loops and conditions, and get more confident in Python.
 
 [My solution](https://github.com/AlexBojik/hyperskill/blob/master/coffee_machine.py)
+
+
+## [Project: Numeric Matrix Processor](https://hyperskill.org/projects/96)
+
+Apart from learning a whole lot about matrices, you will become familiar with the Math library, recursion, and the many ways of using nested lists in practice.
+
+[My solution](https://github.com/AlexBojik/hyperskill/blob/master/processor.py)
+
