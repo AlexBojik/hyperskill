@@ -39,3 +39,9 @@ Apart from writing a useful program (everyone uses calculators!), you will learn
 
 [My solution](https://github.com/AlexBojik/hyperskill/blob/master/calculator.py)
 
+
+## [Project: To-Do List](https://hyperskill.org/projects/105)
+
+To-Do list that will help you manage your tasks. You will practice using loops, conditions and statement branches. And also you will learn the basics of SQLAlchemy to manage SQLite database on python!
+
+[My solution](https://github.com/AlexBojik/hyperskill/blob/master/todolist.py)
